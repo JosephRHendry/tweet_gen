@@ -13,10 +13,6 @@ import io
 
 import pandas as pd
 
-#path = get_file('nietzsche.txt', origin='https://s3.amazonaws.com/text-datasets/nietzsche.txt')
-#text = io.open(path, encoding='utf-8').read().lower()
-
-
 # In[2]:
 
 
