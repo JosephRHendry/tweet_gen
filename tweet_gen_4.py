@@ -1,3 +1,5 @@
+#Machine Learning componant. Reads from a text of tweets and learns to create in that style.
+
 
 from __future__ import print_function
 from keras.callbacks import LambdaCallback
